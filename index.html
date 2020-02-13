@@ -36,5 +36,25 @@
             <div>3 div</div>
         </div>
     </section>
+    <section id="Contact">
+        <h3>Contact</h3>
+        <h4>Kazimierz Styczeń</h4>
+        <address>
+            mail: <a href="mailto:kstyczen@gmail.com">kstyczen@gmail.com</a><br>
+            tel.:<a href="tel:+48602209814">+48602209814</a><br>
+            35-302 Rzeszów<br>
+            ul. Witolda 45
+        </address>
+        <h4>Formularz do kontaktu</h4>
+        <form action="form.php" method="POST">
+            <label for="imie">Imię:</label><br>
+            <input type="text" name="imie" id="imie" required><br>
+            <label for="temat">temat:</label><br>
+            <input type="text" name="temat" id="temat" required><br>
+            <label for="wiadomosc">wiadomosc</label><br>
+            <textarea name="wiadomosc" id="wiadomosc" cols="30" rows="10" required></textarea>
+            <input id="wyslij" type="submit" value="Wyślij" >
+        </form>
+    </section>
 </body>
 </html>

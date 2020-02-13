@@ -50,3 +50,9 @@
     padding: 30px;
     font-size: 20px;
   }
+  #wyslij {
+    height: 30px;
+    width: 80px;
+    background-color: darkgreen;
+    color: darkgrey;
+  }
