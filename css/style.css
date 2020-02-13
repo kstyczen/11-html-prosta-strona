@@ -5,3 +5,35 @@
 
 #About-us {background-color: yellow}
 
+.Skills-container {
+    display: flex;
+     }
+  
+  #div1 {
+    background-color: yellowgreen;
+    height: 50px;
+    width: 50px;
+    padding: 40px;
+    font-size: 20px;
+  }
+  #div2 {
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    padding: 40px;
+    font-size: 20px;
+  }
+  #div3 {
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    padding: 40px;
+    font-size: 20px;
+  }
+  #div4 {
+    background-color: goldenrod;
+    height: 50px;
+    width: 50px;
+    padding: 40px;
+    font-size: 20px;
+  }
