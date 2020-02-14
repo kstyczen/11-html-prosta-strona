@@ -3,9 +3,9 @@
 #li3 { color:red}
 #li4 { color:violet}
 
-#About-us {background-color: yellow}
+#about-us {background-color: yellow}
 
-.Skills-container {
+.skills-container {
     display: flex;
      }
   
@@ -37,11 +37,11 @@
     padding: 40px;
     font-size: 20px;
   }
-  .Portfolio-container{
+  .portfolio-container{
     display: flex;
     flex-direction: column;
   }
-  .Portfolio-container div {
+  .portfolio-container div {
     border-style: solid;
     border-width: thin;
     border-color: blue;
